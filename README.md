@@ -1,4 +1,4 @@
-# Mapty Clone
+# Forkify Clone
 
 A web app for exploring food recipes!
 
