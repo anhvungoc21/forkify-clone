@@ -6,7 +6,7 @@ _Project built following tutorials in the Udemy Complete JavaScript Course 2022 
 
 ## Description
 
-I built this project while I was learning JavaScript in a Udemy course by Jonas Schmedtmann. While parts of the project was provided by the course instructor (SCSS, some HTML), following and understanding how to build a project using the MVC architectural pattern was incredibly informative for a novice at JavaScript like me.
+I built this project while I was learning JavaScript in a Udemy course by Jonas Schmedtmann. While parts of the project was provided by the course instructor (SCSS & some HTML), following and understanding how to build a project with multiple components and functionalities using the MVC architectural pattern was incredibly informative for a novice at JavaScript like me!
 
 ## Features
 _Features that are already present in the original tutorial_
